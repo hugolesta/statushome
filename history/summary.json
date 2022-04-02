@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/home.hugolesta.nl",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 591,
-    "timeDay": 503,
-    "timeWeek": 529,
-    "timeMonth": 598,
-    "timeYear": 591,
+    "uptimeYear": "99.83%",
+    "time": 594,
+    "timeDay": 810,
+    "timeWeek": 561,
+    "timeMonth": 602,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2022-02-17": 143
     }
