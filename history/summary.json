@@ -6,17 +6,16 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "66.47%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "85.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "85.10%",
     "time": 367,
     "timeDay": 272,
     "timeWeek": 380,
     "timeMonth": 352,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-01-21": 9,
       "2023-11-08": 67,
       "2023-09-30": 20,
       "2023-09-05": 21,
@@ -76,8 +75,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
-      "2023-01-23": 1440,
-      "2023-01-22": 1440
+      "2023-01-23": 1440
     }
   }
 ]
