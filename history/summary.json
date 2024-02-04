@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.hugolesta.nl.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "67.02%",
+    "uptime": "67.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "88.37%",
+    "uptimeYear": "88.65%",
     "time": 365,
-    "timeDay": 288,
-    "timeWeek": 340,
-    "timeMonth": 339,
-    "timeYear": 382,
+    "timeDay": 365,
+    "timeWeek": 355,
+    "timeMonth": 342,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2024-01-31": 74,
       "2023-11-08": 67,
@@ -63,8 +63,7 @@
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
-      "2023-02-05": 1440,
-      "2023-02-04": 1440
+      "2023-02-05": 1440
     }
   }
 ]
