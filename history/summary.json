@@ -4,7 +4,7 @@
     "url": "https://home.hugolesta.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/home.hugolesta.nl.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "72.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
@@ -16,6 +16,7 @@
     "timeMonth": 378,
     "timeYear": 406,
     "dailyMinutesDown": {
+      "2024-06-27": 0,
       "2024-06-20": 15,
       "2024-05-03": 237,
       "2024-04-26": 16,
